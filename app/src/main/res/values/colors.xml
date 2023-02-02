@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Gold_Crayola" >#f2c57c</color>
+    <color name="Fawn" >#ddae7e</color>
+    <color name="Dark_Sea_Green" >#7fb685</color>
+    <color name="Hookers_Green" >#426a5a</color>
+    <color name="Light_Coral" >#ef6f6c</color>
+
 </resources>

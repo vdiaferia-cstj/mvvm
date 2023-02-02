@@ -13,4 +13,10 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+
+    <style name="CustomTheme" parent="Theme.Mvvm">
+        <item name="android:background">@color/Hookers_Green</item>
+        <item name="android:textColor">@color/Fawn</item>
+    </style>
 </resources>
