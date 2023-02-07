@@ -18,5 +18,8 @@
     <style name="CustomTheme" parent="Theme.Mvvm">
         <item name="android:background">@color/Hookers_Green</item>
         <item name="android:textColor">@color/Fawn</item>
+        <item name="colorPrimary">@color/Dark_Sea_Green</item>
+        <item name="colorOnPrimary">@color/Gold_Crayola</item>
+
     </style>
 </resources>
